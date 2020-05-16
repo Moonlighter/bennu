@@ -50,7 +50,6 @@ func main() {
 		fmt.Println("Search in progress", search)
 
 		//Count Messages sent
-		//if strings.Contains(s.Text(), "Olevie KOUAMI") {
 		if strings.Contains(s.Text(), userName) {
 
 			//Count lol
