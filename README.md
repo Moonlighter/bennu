@@ -20,3 +20,10 @@ Total number of profanities the user sent. The only profanities to check for are
 Total number of times the user recieved emojis.
 Total number of times the user recieved the angry 😡 emoji.
 Total number of times the user sent and recieved the words "amen", "akpe", "merci", "nagode", "imela", "thanks", "thank you", "alhamdulillah", "shukran"
+
+===================================================================
+Solution is Whrite In Golang v1.4.2
+
+==================Result Visualisation==============================
+![alt text](https://github.com/moonlighter/bennu/blob/master/printscreen.jpg?raw=true)
+
