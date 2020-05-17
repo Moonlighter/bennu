@@ -43,6 +43,7 @@ func main() {
 	receivedAngryEmojiCount := 0
 	sentReceivedWordsCount := 0
 
+
 	fmt.Print("Enter user name : ")
 	fmt.Scanf("%s", &userName)
 
@@ -71,6 +72,7 @@ func main() {
 
 		allMessages = append(allMessages, s.Text())
 	}
+
 	//Count emojis
 	input := strings.Join(userMessages, " ")
 	result := emoji.FindAll(input)
@@ -127,6 +129,8 @@ func main() {
 	for _, k := range keys {
 		fmt.Println("Total number of times the user sent and recieved the word", k, countItemByItem[k])
 	}
+
+	askForConfirmation()
 
 	//Error
 	err = s.Err()
