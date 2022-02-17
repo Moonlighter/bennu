@@ -1,9 +1,6 @@
 Bennu Exercise 1
 What'sApp is one of the most popular instant message application in the world. Our objective is to analyze the history of a What'sApp messages between two people or in a group.
 
-In this exercise, you will write an application in your favorite programming language to run the analysis detailled in the requirements.
-Push the code to your github account which you will share with us.
-Please DO NOT push THE MESSAGE HISTORY FILE AND WITHOUT THE CONSOLE LOGS.
 Requirements:
 
 Download your messages history from whatsApp. Details on how to do can be found here
